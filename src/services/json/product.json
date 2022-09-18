@@ -1,0 +1,52 @@
+[
+    {
+        "id": 101,
+        "productName":"Apple iPhone 13 (128GB) - (Product) PINK",
+        "productDesc":"Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+        "price": 79900,
+        "image":"https://drmacmandalay.com/wp-content/uploads/2021/11/61ecgBYOAJL.jpg"
+
+    },
+    {
+        "id": 102,
+        "productName":"Apple iPhone 13 (128GB) - (Product) RED",
+        "productDesc":"Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+        "price": 76900,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71gm8v4uPBL._SX679_.jpg"
+
+    },
+    {
+        "id": 103,
+        "productName":"Apple iPhone 13 Pro (128GB) - Sierra Blue",
+        "productDesc":"15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel",
+        "price": 119900,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71rswJs9W9L._SL1500_.jpg"
+
+    },
+    {
+        "id": 104,
+        "productName":"Apple iPhone 13 Pro Max (128 GB) - Alpine Green",
+        "productDesc":"17 cm (6.7-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel",
+        "price": 129900,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61qywfWef4L._SX679_.jpg"
+
+    },
+    {
+        "id": 105,
+        "productName":"Apple iPhone 13 Mini (256 GB) - Green",
+        "productDesc":"13 cm (5.4-inch) Super Retina XDR display",
+        "price": 79900,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61cMQeVEGKL._SX679_.jpg"
+
+    },
+    {
+        "id": 106,
+        "productName":"Apple iPhone 12 (64GB) - Green",
+        "productDesc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display",
+        "price": 52999,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71cQWYVtcBL._SX679_.jpg"
+
+    }  
+
+]
+

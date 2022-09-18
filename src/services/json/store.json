@@ -1,0 +1,32 @@
+
+
+
+
+[
+    {
+        "id": 101,
+        "productName":"IPHONE 14",
+        "productDesc":"Big and bigger.",
+        "price": 79899,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-iphone-14-202209?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1661890731783"
+
+    },
+    {
+        "id": 102,
+        "productName":"Apple Watch Series 8",
+        "productDesc":"A healthy leap ahead.",
+        "price": 58899,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-watch-s8-202209_GEO_IN?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1661792340440"
+
+    },
+    {
+        "id": 103,
+        "productName":"IPHONE 14 PRO",
+        "productDesc":"Pro. Beyond.",
+        "price": 129900,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-iphone-14-pro-202209?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1661181419170"
+
+    }
+
+]
+
